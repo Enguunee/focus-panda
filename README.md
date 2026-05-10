@@ -1,7 +1,7 @@
 # Focus Panda | AI Assisted Robotic Study Companion
 
 <p align="center">
-  <img src="docs/images/final-prototype.jpg" width="500"/>
+  <img src="docs/images/final-prototype.png" width="500"/>
 </p>
 
 <p align="center">
@@ -59,7 +59,6 @@ Handles:
 ---
 
 ## Project Gallery
-
 <table align="center">
 <tr>
 <td align="center">
@@ -75,13 +74,13 @@ CAD Design
 
 <tr>
 <td align="center">
-<img src="docs/images/wiring.jpg" width="300"/><br>
+<img src="docs/images/wiring.png" width="300"/><br>
 Electronics and Wiring
 </td>
 
 <td align="center">
-<img src="docs/images/demo.gif" width="300"/><br>
-System Demo
+<img src="docs/images/final-prototype.png" width="300"/><br>
+Final Prototype
 </td>
 </tr>
 </table>
