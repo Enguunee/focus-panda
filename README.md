@@ -4,7 +4,7 @@ Focus Panda is an interactive robotic study companion designed to reduce phone d
 
 Built using an ESP32 microcontroller, custom web application, TFT display, sensors, and serial communication, the system combines embedded systems, hardware integration, UI design, and behavioral reinforcement into one connected platform.
 
-![Final Prototype](docs/images/final-prototype.jpg)
+![Final Prototype](docs/images/final-prototype.png)
 
 ---
 
@@ -51,7 +51,7 @@ Handles rewards, session tracking, user interaction, and browser based communica
 
 ## Demo
 
-[Watch Demo Video](PASTE_VIDEO_LINK_HERE)
+[Watch Demo Video](https://drive.google.com/file/d/1s7SQlK8_ux6w9GD-FN52YMqhcUe0XBht/view?usp=drive_link)
 
 ---
 
@@ -63,7 +63,7 @@ Handles rewards, session tracking, user interaction, and browser based communica
 
 ### Wiring and Electronics
 
-![Wiring](docs/images/wiring.jpg)
+![Wiring](docs/images/wiring.png)
 
 ### CAD Design
 
