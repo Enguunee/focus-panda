@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f7f3ee;
+  color: #222;
+ }
+ 
+ 
+ .app {
+  min-height: 100vh;
+  padding: 30px;
+ }
+ 
+ 
+ .header {
+  text-align: center;
+  margin-bottom: 30px;
+ }
+ 
+ 
+ .header h1 {
+  font-size: 42px;
+  margin-bottom: 8px;
+ }
+ 
+ 
+ .header p {
+  font-size: 18px;
+  color: #555;
+ }
+ 
+ 
+ .panel-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+ }
+ 
+ 
+ .panel {
+  background: white;
+  border-radius: 22px;
+  padding: 24px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  border: 2px solid #eee;
+ }
+ 
+ 
+ .panel h2 {
+  margin-top: 0;
+  font-size: 26px;
+ }
+ 
+ 
+ button {
+  border: none;
+  background: #222;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 14px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 6px;
+ }
+ 
+ 
+ button:hover {
+  background: #444;
+ }
+ 
+ 
+ button:disabled {
+  background: #ccc;
+  cursor: not-allowed;
+ }
+ 
+ 
+ .coin-box {
+  font-size: 24px;
+  font-weight: bold;
+  background: #fff3c4;
+  padding: 12px;
+  border-radius: 14px;
+  display: inline-block;
+  margin-bottom: 12px;
+ }
+ 
+ 
+ .treasure-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+ }
+ 
+ 
